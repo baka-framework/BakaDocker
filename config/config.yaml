@@ -1,0 +1,5 @@
+package: BakaDocker
+baka:
+  debug_all: True
+  meta:
+    version: 0.1.0
