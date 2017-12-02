@@ -2,9 +2,9 @@
 
 ### Cara penggunaan
 
-`git clone`
+`git clone https://github.com/baka-framework/BakaDocker.git`
 
-`cd folder_project`
+`cd BakaDocker`
 
 #### Untuk menjalankan docker
 
